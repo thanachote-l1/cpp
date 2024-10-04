@@ -10,11 +10,12 @@
 
 ## .h file
 If the filename is *student.h*
-    #ifndef _student_h_
-    #define _student_h_
-    ....
-    #endif
-
+```
+#ifndef _student_h_
+#define _student_h_
+...
+#endif
+```
 
 # Pointer
 
