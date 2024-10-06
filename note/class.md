@@ -1,4 +1,4 @@
-**static (variable)** - variable get allocated for the lifetime of the program
+:**static (variable)** - variable get allocated for the lifetime of the program
 
 # Class
 
